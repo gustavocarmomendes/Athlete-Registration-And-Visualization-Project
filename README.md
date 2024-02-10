@@ -38,3 +38,18 @@ private static final String PASS = "";
 
 ## Tela principal do Sistema:
 
+<div align="center">
+<img src="https://github.com/gustavocarmomendes/Athlete-Registration-And-Visualization-Project/assets/112448190/7bdc6f52-482f-4a1c-8180-2ec3e4d2a9ef" width="450px" />
+</div
+
+## Tela de Cadastro:
+
+<div align="center">
+<img src="https://github.com/gustavocarmomendes/Athlete-Registration-And-Visualization-Project/assets/112448190/721da558-da87-492c-866e-b03431757f20" width="450px" />
+</div
+
+## Tela de Visualização dos Atletas:
+
+<div align="center">
+<img src="https://github.com/gustavocarmomendes/Athlete-Registration-And-Visualization-Project/assets/112448190/9898beb2-cae5-477d-af01-35e2bf4e0e65" width="450px" />
+</div
