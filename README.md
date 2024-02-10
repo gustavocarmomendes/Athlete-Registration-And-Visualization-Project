@@ -51,7 +51,7 @@ private static final String PASS = "";
 ## Tela de Visualização dos Atletas:
 
 <div align="center">
-<img src="https://github.com/gustavocarmomendes/Athlete-Registration-And-Visualization-Project/assets/112448190/9898beb2-cae5-477d-af01-35e2bf4e0e65" width="450px" />
+<img src="https://github.com/gustavocarmomendes/Athlete-Registration-And-Visualization-Project/assets/112448190/9898beb2-cae5-477d-af01-35e2bf4e0e65" width="550px" />
 </div
 
 #OBS: AS INFORMAÇÕES DOS ATLETAS SÓ SERÃO MOSTRADAS NA TABELA APÓS CLICAR EM PESQUISAR, POIS O MESMO IRÁ LISTAR TODOS OS ATLETAS QUE FORAM CADASTRADOS.
