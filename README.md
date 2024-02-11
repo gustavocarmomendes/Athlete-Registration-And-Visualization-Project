@@ -4,22 +4,21 @@ Projeto desenvolvido como prova do Segundo semestre na faculdade de ADS, no qual
 
 O Banco de Dados é próprio da máquina e não está na rede, por conta disso segue o código do MySql para a criação da database e tabela.
 
-## Comandos MySql:
+##### Comandos MySql:
+    CREATE DATABASE nbb;
 
-CREATE DATABASE nbb;
-
-CREATE TABLE atleta (
-    codigo int auto_increment,
-    nome varchar(255),
-    altura double,
-    dataNascimento date,
-    peso double,
-    timeBasquete varchar(255),
-    posicaoTime varchar(255),
-    envergadura double,
-    classificacaoNBB int,
-    primary key (codigo)
-);
+    CREATE TABLE atleta (
+        codigo int auto_increment,
+        nome varchar(255),
+        altura double,
+        dataNascimento date,
+        peso double,
+        timeBasquete varchar(255),
+        posicaoTime varchar(255),
+        envergadura double,
+        classificacaoNBB int,
+        primary key (codigo)
+    );
 
 Obs: o código da tabela a cima foi executado no MySql Workbench 8.0 CE, no qual não foi preciso digitar ao lado das colunas o NULL ou NOT NULL.
 
