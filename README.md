@@ -1,4 +1,4 @@
-## Athlete Registration And Visualization Project
+## Athlete Registration And Visualization Project / Version 1.0
  
 Projeto desenvolvido como prova do Segundo semestre na faculdade de ADS, no qual podemos efetuar o cadastro e também visualizar os atletas, essas informações são gravadas no Banco de Dados MySql, projeto foi desenvolvido com interface em Java Swing e utilizamos a API JDBC para efetuar a conexão com o banco.
 
