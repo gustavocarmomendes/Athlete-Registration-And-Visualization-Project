@@ -1,10 +1,10 @@
-## Athlete Registration And Visualization Project / Version 1.0
+# Athlete Registration And Visualization Project / Version 1.0
  
 Projeto desenvolvido como prova do Segundo semestre na faculdade de ADS, no qual podemos efetuar o cadastro e também visualizar os atletas, essas informações são gravadas no Banco de Dados MySql, projeto foi desenvolvido com interface em Java Swing e utilizamos a API JDBC para efetuar a conexão com o banco.
 
 O Banco de Dados é próprio da máquina e não está na rede, por conta disso segue o código do MySql para a criação da database e tabela.
 
-##### Comandos MySql:
+## Comandos MySql:
     CREATE DATABASE nbb;
 
     CREATE TABLE atleta (
@@ -22,7 +22,7 @@ O Banco de Dados é próprio da máquina e não está na rede, por conta disso s
 
 Obs: o código da tabela a cima foi executado no MySql Workbench 8.0 CE, no qual não foi preciso digitar ao lado das colunas o NULL ou NOT NULL.
 
-##### Como fazer a conexão com o Banco:
+## Como fazer a conexão com o Banco:
     1 - Você deve acessar o arquivo ConnectionDB.java na pasta "conn".
     
     2 - Linha 17 "private static final String URL_MYSQL = "jdbc:mysql://localhost/nbb";" caso você tenha seguido passo a
@@ -42,18 +42,18 @@ Obs: o código da tabela a cima foi executado no MySql Workbench 8.0 CE, no qual
 
 <div align="center">
 <img src="https://github.com/gustavocarmomendes/Athlete-Registration-And-Visualization-Project/assets/112448190/7bdc6f52-482f-4a1c-8180-2ec3e4d2a9ef" width="450px" />
-</div
-
+</div>
+  
 ## Tela de Cadastro:
 
 <div align="center">
 <img src="https://github.com/gustavocarmomendes/Athlete-Registration-And-Visualization-Project/assets/112448190/721da558-da87-492c-866e-b03431757f20" width="450px" />
-</div
+</div>
 
 ## Tela de Visualização dos Atletas:
 
 <div align="center">
 <img src="https://github.com/gustavocarmomendes/Athlete-Registration-And-Visualization-Project/assets/112448190/9898beb2-cae5-477d-af01-35e2bf4e0e65" width="550px" />
-</div
+</div>
 
-#OBS: AS INFORMAÇÕES DOS ATLETAS SÓ SERÃO MOSTRADAS NA TABELA APÓS CLICAR EM PESQUISAR, POIS O MESMO IRÁ LISTAR TODOS OS ATLETAS QUE FORAM CADASTRADOS.
+#### OBS: AS INFORMAÇÕES DOS ATLETAS SÓ SERÃO MOSTRADAS NA TABELA APÓS CLICAR EM PESQUISAR, POIS O MESMO IRÁ LISTAR TODOS OS ATLETAS QUE FORAM CADASTRADOS.
